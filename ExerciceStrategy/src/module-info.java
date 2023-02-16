@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hayth
+ *
+ */
+module ExerciceStrategy {
+}
